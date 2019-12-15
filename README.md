@@ -1,9 +1,7 @@
 # google-homepage
-Deconstruct and rebuild the google home page and a search result page.
+Deconstruct and rebuild the google home page.
 
 ## Outcomes
-
-### google home page
 #### HTML5
 * Familiarize with the HTML document layout
 * Create a nav bar using unordered lists and links
@@ -22,7 +20,7 @@ Deconstruct and rebuild the google home page and a search result page.
 * Use property *box-shadow* with values of format "offset-x|offset-y|blur-radius|spread|color" to create hover effect for search bar
 
 ## Files
-* images - folder containing all images used
+* images - folder containing images used in index.html
 * README.md - documentation of project
 * index.html - google home page HTML file
 * style1.css - css stylesheet for google home page
@@ -33,3 +31,5 @@ Visual Studio Code
 #### OS
 Ubuntu 18.04 on VirtualBox
 
+## Project Source
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
