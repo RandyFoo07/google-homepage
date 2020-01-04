@@ -1,6 +1,5 @@
 # google-homepage
 Deconstruct and rebuild the google home page.  
-[View Website in Browser](https://randyfoo07.github.io/google-homepage/)  
 
 ## Outcomes
 #### HTML5
